@@ -1,3 +1,6 @@
+// for command line git tutorial
+// Gitlab modification
+
 print("hello world")
 print("Tell your workd")
 print("Tell his world")
