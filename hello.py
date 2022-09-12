@@ -1,5 +1,6 @@
 // For command line git tutorial
-// local repssitory modification
+// First : local repssitory modification
+// Second : Gitlab modification
 
 print("hello world")
 print("Tell your workd")
