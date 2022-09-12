@@ -1,3 +1,6 @@
+// For command line git tutorial
+// local repssitory modification
+
 print("hello world")
 print("Tell your workd")
 print("Tell his world")
